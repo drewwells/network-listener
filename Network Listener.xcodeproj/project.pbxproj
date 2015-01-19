@@ -180,6 +180,7 @@
 				TargetAttributes = {
 					27610AFD1A51750F00C748F3 = {
 						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = 8943DPB6NM;
 					};
 					27610B131A51750F00C748F3 = {
 						CreatedOnToolsVersion = 6.2;
@@ -424,6 +425,7 @@
 				27610B201A51750F00C748F3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		27610B211A51750F00C748F3 /* Build configuration list for PBXNativeTarget "Network ListenerTests" */ = {
 			isa = XCConfigurationList;
@@ -432,6 +434,7 @@
 				27610B231A51750F00C748F3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
